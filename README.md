@@ -20,3 +20,4 @@ The first line of the script is:
 ## What does shebang do exactly?
 The shebang specifies which interpreter executes the script, ensuring it runs with the correct shell environment. In this case the interpreter is /bin/bash and tells the system to run the script using
 the Bash shell.
+# 0430_HW_LinuxLab_SimpleScript
